@@ -2600,4 +2600,11 @@ module.exports = [
       "SSIS",
     ],
   },
+  {
+    name: "TerminusDB",
+    description: "An open-source in-memory document graph database to help you build collaborative applications.",
+    url: "https://terminusdb.com/blog/",
+    twitter: "@TerminusDB",
+    tags: ["Knowledge graphs", "graph databases", "data collaboration", "data mesh", "databases", "backend systems", "data management"],
+}
 ];
